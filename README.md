@@ -5,7 +5,7 @@
 
 Basically, I am a python developer and passionate about Data Science and Software Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrsh25&label=Profile%20views&color=0e75b6&style=flat" alt="Devarsh23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Devarsh23&label=Profile%20views&color=0e75b6&style=flat" alt="Devarsh23" /> </p>
 
 - 🔭 I’m currently working on **Developing the data engineering skills to deal with huge amount of data**
 
